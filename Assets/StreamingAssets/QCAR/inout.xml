@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="bites" size="1000.000000 351.190491" />
+    <ImageTarget name="reebok" size="1000.000000 562.500000" />
+    <ImageTarget name="levis" size="1000.000000 512.372620" />
+    <ImageTarget name="kfc" size="1000.000000 646.666687" />
+    <ImageTarget name="burger_king" size="1000.000000 657.812500" />
+    <ImageTarget name="inout" size="1000.000000 1243.347900" />
+    <ImageTarget name="NIT" size="1000.000000 729.166687" />
+  </Tracking>
+</QCARConfig>
